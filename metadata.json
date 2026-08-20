@@ -1,0 +1,6 @@
+{
+  "name": "BRAIQ (Brokerage Risk Analytics Intelligent Quantum-core)",
+  "description": "An intelligent, sharp-edged investment assistant for Commodities, Crypto, and Stocks using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
